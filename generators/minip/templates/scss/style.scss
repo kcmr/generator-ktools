@@ -1,0 +1,5 @@
+<% if (props.normalizecss) { -%>
+// normalize import options
+// https://github.com/JohnAlbin/normalize-scss
+@import 'normalize/import-now';
+<% } -%>
