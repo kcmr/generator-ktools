@@ -8,7 +8,7 @@ Scaffolding for a quick demo project with sass (SCSS), optional normalize CSS ([
 ## Installation
 
 ```bash
-npm install -g kcmr/generator-ktools
+npm install -g generator-ktools
 ```
 
 ## Usage
